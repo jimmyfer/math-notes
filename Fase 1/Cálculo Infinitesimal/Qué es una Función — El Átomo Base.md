@@ -1,4 +1,3 @@
-# ⚙️ ¿Qué es una Función? — El Átomo Base
 
 Una función $f(x)$ es una regla de correspondencia o una "máquina lógica":
 * **$x$ (Input):** El valor independiente que introduces.
